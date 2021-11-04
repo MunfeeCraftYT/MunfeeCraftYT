@@ -33,8 +33,8 @@
 
 <hr>
 
-![Views](https://komarev.com/ghpvc/?username=MunfeeCraftYT)
-![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=MunfeeCraftYT&show_icons=true&theme=tokyonight&hide=["issues"])
-![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MunfeeCraftYT&show_icons=true&theme=tokyonight&layout=compact)
-![streak_Stats](https://github-readme-streak-stats.herokuapp.com/?user=MunfeeCraftYT&hide_border=true&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=MunfeeCraftYT&theme=discord&column=3)
+![Visitas](https://komarev.com/ghpvc/?username=MunfeeCraftYT)
+![Estadisticas de github](https://github-readme-stats.vercel.app/api?username=MunfeeCraftYT&show_icons=true&theme=tokyonight&hide=["issues"])
+![Lenguajes que mas uso](https://github-readme-stats.vercel.app/api/top-langs?username=MunfeeCraftYT&show_icons=true&theme=tokyonight&layout=compact)
+![Secso](https://github-readme-streak-stats.herokuapp.com/?user=MunfeeCraftYT&hide_border=true&theme=tokyonight)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=MunfeeCraftYT&theme=discord&column=3)
